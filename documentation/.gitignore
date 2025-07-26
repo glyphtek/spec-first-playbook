@@ -1,0 +1,21 @@
+# Generated documentation
+generated/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Local configuration
+.local/
+.env*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db 

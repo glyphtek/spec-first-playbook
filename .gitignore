@@ -1,0 +1,4 @@
+documentation/generated/
+*.tmp
+*.temp
+.DS_Store
